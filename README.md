@@ -141,6 +141,22 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/iter/minabs`][@stdlib/stats/iter/minabs]: compute the minimum absolute value of all iterated values.
+-   [`@stdlib/stats/iter/mmaxabs`][@stdlib/stats/iter/mmaxabs]: create an iterator which iteratively computes a moving maximum absolute value.
+-   [`@stdlib/stats/iter/mmin`][@stdlib/stats/iter/mmin]: create an iterator which iteratively computes a moving minimum value.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -199,6 +215,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-iter-mminabs/main/LICENSE
 
 [mdn-iterator-protocol]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterator_protocol
+
+<!-- <related-links> -->
+
+[@stdlib/stats/iter/minabs]: https://github.com/stdlib-js/stats-iter-minabs
+
+[@stdlib/stats/iter/mmaxabs]: https://github.com/stdlib-js/stats-iter-mmaxabs
+
+[@stdlib/stats/iter/mmin]: https://github.com/stdlib-js/stats-iter-mmin
+
+<!-- </related-links> -->
 
 </section>
 
